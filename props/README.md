@@ -1,7 +1,6 @@
 # Props
 * Props
 * Props reversed
-* Triangle
 ## Props
 in `src/components/Parent.tsx`
 ```ts
