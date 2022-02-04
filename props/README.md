@@ -6,7 +6,7 @@ in `src/components/Parent.tsx`
 ```ts
 import Child1 from "./Child1"
 
-const Parent = () => {
+const Parent = (): JSX.Element => {
     const parentProps = {
         one : 1,
         two : "2",
@@ -73,7 +73,7 @@ in `src/components/Parent.tsx`
 import { useState } from "react"
 import Child1 from "./Child1"
 
-const Parent = () => {
+const Parent = (): JSX.Element => {
     const [parentProps, setParentProps] = useState({
         one : 1,
         two : "2",
