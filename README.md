@@ -4,3 +4,4 @@ getting started:
 npx create-react-app supreme-react --template typescript
 ```
 * [components](https://github.com/mikolajsemeniuk/Supreme-React/tree/main/components)
+* [props](https://github.com/mikolajsemeniuk/Supreme-React/tree/main/props)
