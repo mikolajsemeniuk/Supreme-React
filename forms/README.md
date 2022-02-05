@@ -19,7 +19,6 @@ interface Input {
 }
 
 const Parent = (): JSX.Element => {
-    
     const [input, setInput] = useState<Input>({
         name: '',
         birthday: new Date(),
